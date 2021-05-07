@@ -95,6 +95,7 @@ setup(
                       'requests>=2.22.0', 'imapclient>=2.1.0',
                       'dateparser>=0.7.2',
                       'mailsuite>=1.6.1',
+                      'mail-parser>=3.15.0',
                       'elasticsearch-dsl>=7.2.0,<8.0.0',
                       'kafka-python>=1.4.4',
                       'tqdm>=4.31.1',
